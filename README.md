@@ -9,7 +9,4 @@ steve2030/steve2030 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Image
 
-<img src='![image](https://user-images.githubusercontent.com/59918018/194740874-5da49ba9-e2cc-479f-8a80-1fb0b1ba4720.png)'
- alt="Covid19 WebApp"/>
