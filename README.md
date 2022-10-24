@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stephen Munyao Wambua
 - 👀 I’m interested in ...Software development,DeVopS, Infrastructure as a code
 - 🌱 I’m currently learning ...ruby on rails
-- 💞️ I’m looking to collaborate on ...PYTHON,DJANGO,RUBY ON RAILS,REACT JS , REACT NATIVE, NODE JS,
+- 💞️ I’m looking to collaborate on ...TYPESCRIPT, RUBY ON RAILS,REACT JS , REACT NATIVE, NODE JS,
 - 📫 How to reach me ...wambu2040@gmail.com
 
 <!---
