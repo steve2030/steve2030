@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Stephen Munyao Wambua
+- 👋 Hi, I’m @Stephen Munyao Wambua, afull stack ssoftware developer
 - 👀 I’m interested in ...Software development,DeVopS, Infrastructure as a code
-- 🌱 I’m currently learning ...ruby on rails
-- 💞️ I’m looking to collaborate on ...TYPESCRIPT, RUBY ON RAILS,REACT JS , REACT NATIVE, NODE JS,
+- 🌱 I’m currently learning ..DevOps
+- 💞️ I’m looking to collaborate on ...python, django TYPESCRIPT, RUBY ON RAILS,REACT JS , 
 - 📫 How to reach me ...wambu2040@gmail.com
 
 <!---
