@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stephen Munyao Wambua, afull stack ssoftware developer
 - 👀 I’m interested in ...Software development,DeVopS, Infrastructure as a code
-- 🌱 I’m currently learning ..AWs DevOps and React Native.
-- 💞️ I’m looking to collaborate on ...Front-end, Back-end or Full stack Web Development. My Tech stack: Javascript, React, Ruby, & Ruby on Rails.
+- 🌱 I’m currently ltranstioning to DevOps
+- 💞️ I’m looking to collaborate on ...Full stack Web Development. My Tech stack: Javascript, React, Ruby, Ruby on Rails, & pytho and Django.
 - 📫 How to reach me ...phone: 0708092194 E-mail: wambu2040@gmail.com
 
 <!---
