@@ -1,28 +1,20 @@
-- 👋 Hi, I’m @Stephen Munyao Wambua, afull stack ssoftware developer
-- 👀 I’m interested in ...Software development,DeVopS, Infrastructure as a code
-- 🌱 I’m currently ltranstioning to DevOps
-- 💞️ I’m looking to collaborate on ...Full stack Web Development. My Tech stack: Javascript, React, Ruby, Ruby on Rails, & pytho and Django.
-- 📫 How to reach me ...phone: 0708092194 E-mail: wambu2040@gmail.com
-
-<!---
-steve2030/steve2030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hi there! 👋
-I'm [your name], a [your profession] with a passion for [your interests]. Welcome to my GitHub profile!
+I'm [Stephen Munyao Wambua], a [Full stack engineer|DevOps Engineer| Site Reliability Engineer] with a passion for [Software Development, Automation, Cybersecurity, application Security and Cloud Computing]. Welcome to my GitHub profile!
 
 About Me
-🔭 I’m currently working on [current project].
-🌱 I’m currently learning [programming language or technology].
-💬 Ask me about [your area of expertise or interest].
-😄 Pronouns: [your pronouns].
+🔭 I’m currently working at [LandMark Technologies].
+🌱 I’m currently learning [Pulumi, Ansible, Argo CI, Microsoft Azure,New Relic, ELK, VPc].
+💬 Ask me about [DevOps, SRE and Full stack Development in Python, Ruby and Javascript].
+😄 Pronouns: [Mr].
 ⚡ Fun fact: [interesting fact about yourself].
 Skills
-[Skill 1]
-[Skill 2]
-[Skill 3]
-[Skill 4]
-[Skill 5]
+Software Development Skills
+[Git]
+[Ruby -Ruby on Rails]
+[Javascrit-React]
+[Python -Django Framework]
+DevOps|SRE Skills
+[Linux][Jenkins][SonarQube] [Nexus] [Ansible] [Terraform] [Docker] [Kubernetes] [Prometheus] [Grafana] [Helm] [AWS]
 Projects
 Here are some of my notable projects:
 
@@ -32,8 +24,8 @@ Here are some of my notable projects:
 Connect with Me
 You can find me on:
 
-[LinkedIn](link to your LinkedIn profile)
-[Twitter](link to your Twitter profile)
+[LinkedIn](https://www.linkedin.com/in/stephen-wambua-devops/)
+
 [Personal Website](link to your personal website)
 Feel free to reach out to me anytime!
 
@@ -41,5 +33,5 @@ Support Me
 If you find my work useful and would like to support me, you can:
 
 [Buy me a coffee](link to your buy me a coffee page)
-[Contribute to my projects](link to your GitHub profile page)
+[Contribute to my projects](https://github.com/steve2030)
 Thank you for visiting my profile!
