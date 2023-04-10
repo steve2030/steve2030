@@ -2,13 +2,17 @@
 -I'm [Stephen Munyao Wambua], a [Full stack engineer|DevOps Engineer| Site Reliability Engineer] with a passion for [Software Development, Automation, Cybersecurity, application Security and Cloud Computing]. Welcome to my GitHub profile!
 
 About Me
-🔭 I’m currently working at [LandMark Technologies].
-🌱 I’m currently learning [Pulumi, Ansible, Argo CI, Microsoft Azure,New Relic, ELK, VPc].
-💬 Ask me about [DevOps, SRE and Full stack Development in Python, Ruby and Javascript].
-😄 Pronouns: [Mr].
-⚡ Fun fact: [interesting fact about yourself].
-Skills
-Software Development Skills
+
+-🔭 I’m currently working at [LandMark Technologies].
+
+-🌱 I’m currently learning [Pulumi, Ansible, Argo CI, Microsoft Azure,New Relic, ELK, VPC].
+
+-💬 Ask me about [DevOps, SRE and Full stack Development in Python, Ruby and Javascript].
+
+
+#Skills
+##Software Development Skills
+
 -[Git]
 
 -[Ruby -Ruby on Rails]
@@ -17,7 +21,8 @@ Software Development Skills
 
 -[Python -Django Framework]
 
-DevOps|SRE Skills
+##DevOps|SRE Skills
+
 [Linux][Jenkins][SonarQube] [Nexus] [Ansible] [Terraform] [Docker] [Kubernetes] [Prometheus] [Grafana] [Helm] [AWS]
 Projects
 Here are some of my notable projects:
@@ -31,11 +36,8 @@ You can find me on:
 [LinkedIn](https://www.linkedin.com/in/stephen-wambua-devops/)
 
 [Personal Website](link to your personal website)
+
 Feel free to reach out to me anytime!
 
-Support Me
-If you find my work useful and would like to support me, you can:
-
-[Buy me a coffee](link to your buy me a coffee page)
 [Contribute to my projects](https://github.com/steve2030)
 Thank you for visiting my profile!
