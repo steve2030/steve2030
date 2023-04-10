@@ -10,8 +10,8 @@ About Me
 -💬 Ask me about [DevOps, SRE and Full stack Development in Python, Ruby and Javascript].
 
 
-#Skills
-##Software Development Skills
+# Skills
+## Software Development Skills
 
 -[Git]
 
@@ -21,7 +21,7 @@ About Me
 
 -[Python -Django Framework]
 
-##DevOps|SRE Skills
+## DevOps|SRE Skills
 
 [Linux][Jenkins][SonarQube] [Nexus] [Ansible] [Terraform] [Docker] [Kubernetes] [Prometheus] [Grafana] [Helm] [AWS]
 Projects
