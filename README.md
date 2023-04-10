@@ -1,5 +1,5 @@
-Hi there! 👋
-I'm [Stephen Munyao Wambua], a [Full stack engineer|DevOps Engineer| Site Reliability Engineer] with a passion for [Software Development, Automation, Cybersecurity, application Security and Cloud Computing]. Welcome to my GitHub profile!
+-Hi there! 👋
+-I'm [Stephen Munyao Wambua], a [Full stack engineer|DevOps Engineer| Site Reliability Engineer] with a passion for [Software Development, Automation, Cybersecurity, application Security and Cloud Computing]. Welcome to my GitHub profile!
 
 About Me
 🔭 I’m currently working at [LandMark Technologies].
@@ -9,10 +9,14 @@ About Me
 ⚡ Fun fact: [interesting fact about yourself].
 Skills
 Software Development Skills
-[Git]
-[Ruby -Ruby on Rails]
-[Javascrit-React]
-[Python -Django Framework]
+-[Git]
+
+-[Ruby -Ruby on Rails]
+
+-[Javascrit-React]
+
+-[Python -Django Framework]
+
 DevOps|SRE Skills
 [Linux][Jenkins][SonarQube] [Nexus] [Ansible] [Terraform] [Docker] [Kubernetes] [Prometheus] [Grafana] [Helm] [AWS]
 Projects
