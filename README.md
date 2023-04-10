@@ -23,21 +23,33 @@ About Me
 
 ## DevOps|SRE Skills
 
-[Linux][Jenkins][SonarQube] [Nexus] [Ansible] [Terraform] [Docker] [Kubernetes] [Prometheus] [Grafana] [Helm] [AWS]
-Projects
-Here are some of my notable projects:
+-Linux
+-[Jenkins]
+[SonarQube]
+[Nexus]
+[Ansible]
+[Terraform]
+[Docker]
+[Kubernetes]
+[Prometheus]
+[Grafana]
+[Helm]
+-[AWS]
+# Projects
+## Here are some of my notable projects:
 
 [Project 1](link to your project repository): Brief description of the project.
 [Project 2](link to your project repository): Brief description of the project.
 [Project 3](link to your project repository): Brief description of the project.
-Connect with Me
-You can find me on:
+# Connect with Me
+## You can find me on:
 
-[LinkedIn](https://www.linkedin.com/in/stephen-wambua-devops/)
+-[LinkedIn](https://www.linkedin.com/in/stephen-wambua-devops/)
 
-[Personal Website](link to your personal website)
+-[Personal Website](link to your personal website)
 
 Feel free to reach out to me anytime!
 
-[Contribute to my projects](https://github.com/steve2030)
+[Contribute to my projects] (https://github.com/steve2030)
+
 Thank you for visiting my profile!
