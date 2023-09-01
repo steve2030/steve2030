@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-I'm **Stephen Munyao Wambua**, a passionate Software Developer from Kenya 🇰🇪.
+I'm **Stephen Munyao Wambua**,
+A passionate Software Developer from Kenya 🇰🇪.
 
 🌱 I’m currently learning **DevOps** at [Darey.io](https://www.darey.io).
 
