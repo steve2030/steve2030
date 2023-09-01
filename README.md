@@ -16,11 +16,11 @@ A passionate Software Developer from Kenya 🇰🇪.
 - Ansible
 - ArgoCD
 
-👯 I’m looking to collaborate on **DevOps projects**.
+👯 I’m looking to collaborate on **DevOps And Spring Boot Projects**.
 
 👨‍💻 You can find all of my projects on [GitHub](https://github.com/steve2030).
 
-💬 Ask me about **DevOps****FullStack Development in SpringBoot &** **Microservices** and **SRE**.
+💬 Ask me about **DevOps** **FullStack Development in (SpringBoot & React, Angular)** **Microservices** and **SRE**.
 
 📫 You can reach me at [wambu2040@gmail.com](mailto:wambu2040@gmail.com).
 
