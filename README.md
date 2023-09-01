@@ -5,7 +5,11 @@ A passionate Software Developer from Kenya 🇰🇪.
 
 🌱 I’m currently learning **DevOps** at [Darey.io](https://www.darey.io).
 
-## DevOps Tools
+## Tech Stack
+### Fullstack Development
+- Back-end Development (Java, SpringBoot, Ruby, Ruby on Rails)
+- Front-end (Javascript, React, Angular)
+### DevOps
 - Kubernetes
 - Docker
 - Helm
@@ -15,6 +19,7 @@ A passionate Software Developer from Kenya 🇰🇪.
 - CI/CD (Jenkin &Team City)
 - Ansible
 - ArgoCD
+- AWS
 
 👯 I’m looking to collaborate on **DevOps And Spring Boot Projects**.
 
