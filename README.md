@@ -13,55 +13,18 @@ About Me
 # Skills
 ## Software Development Skills
 
-- Git
-- Ruby
-- Ruby on Rails
-- Rspec
-- Javascrit
-- React
-- Python
-- Django Framework
-- Postman
+- Git- Ruby- Ruby on Rails- Rspec- Javascrit- React- Python- Django Framework- Postman
 
 ## DevOps|SRE Skills
 ### CI/CD Tools
-- Linux
-- Bash scripting
-- Jenkins
-- SonarQube
-- Nexus
-- Tomcat
-- Ngnix
+- Linux- Bash scripting- Jenkins- SonarQube- Nexus- Tomcat- Ngnix
 ### Infrastructure as Code (IaC)
-- Ansible
-- Terraform
-- Docker
-- Kubernetes
-- Helm Charts
+- Ansible- Terraform- Docker- Kubernetes- Helm Charts
 ### Application Monitoring Tools
-- Prometheus
-- Grafana
+- Prometheus- Grafana
 
 ### AWS Cloud Services
-- EC2
-- S3
-- AWS Lambda
-- Elastic BeanStalk
-- Elastic Load Balamcing
-- Elastic K8 Services
-- Identity Access Management.
-- Code Deploy
-- Code Build
-- Code Pipeline
-
-# Projects
-## Here are some of my notable projects:
-
-[Project 1](link to your project repository): Brief description of the project.
-[Project 2](link to your project repository): Brief description of the project.
-[Project 3](link to your project repository): Brief description of the project.
-# Connect with Me
-## You can find me on:
+- EC2- S3- AWS Lambda- Elastic BeanStalk- Elastic Load Balamcing- Elastic K8 Services- Identity Access Management.- Code Deploy- Code Build- Code Pipeline
 
 -[LinkedIn](https://www.linkedin.com/in/stephen-wambua-devops/)
 
