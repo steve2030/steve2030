@@ -13,13 +13,16 @@ A passionate Software Developer from Kenya 🇰🇪.
 - Kubernetes
 - Docker
 - Helm
-- Kibana
-- Terraform
-- Bash Scripting
+-Ticketing (Kibana & Jira)
+- Iac (Terraform,Pulumi)
+- Scripting( Python & Bash)
 - CI/CD (Jenkin &Team City)
-- Ansible
-- ArgoCD
-- AWS
+- Configuration MAnagaement(Ansible)
+- GitOps (ArgoCD)
+- AWS (EC2,S3, EKS,Route53, VPC, IAM, CodeBuild, CodePipeline, & Code Commit)
+- Apllication Performance Monitoring (Prometheus, Grafana & New Relic)
+- Logs (ELK)
+  
 
 👯 I’m looking to collaborate on **DevOps And Spring Boot Projects**.
 
