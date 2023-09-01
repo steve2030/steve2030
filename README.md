@@ -10,18 +10,18 @@ A passionate Software Developer from Kenya 🇰🇪.
 - **Back-end Development** (Java, SpringBoot, Ruby, Ruby on Rails)
 - **Front-end** (Javascript, React, Angular)
 ### DevOps
-- Kubernetes
-- Docker
+- **Container Orchestration** Kubernetes
+- **Containerisation** Docker
 - Helm
 - **Ticketing** (Kibana & Jira)
 - **Iac** (Terraform,Pulumi)
 - **Shell Scripting**( Python & Bash)
-- CI/CD (Jenkin &Team City)
-- Configuration MAnagaement(Ansible)
-- GitOps (ArgoCD)
-- AWS (EC2,S3, EKS,Route53, VPC, IAM, CodeBuild, CodePipeline, & Code Commit)
-- Apllication Performance Monitoring (Prometheus, Grafana & New Relic)
-- Logs (ELK)
+- **CI/CD** (Jenkin &Team City)
+- **Configuration MAnagaement**(Ansible)
+- **GitOps**(ArgoCD)
+- **AWS** (EC2,S3, EKS,Route53, VPC, IAM, CodeBuild, CodePipeline, & Code Commit)
+- **Apllication Performance Monitoring** (Prometheus, Grafana & New Relic)
+- **Logs** (ELK)
   
 
 👯 I’m looking to collaborate on **DevOps And Spring Boot Projects**.
