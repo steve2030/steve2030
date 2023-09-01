@@ -11,7 +11,9 @@ About Me
 
 
 # Skills
-## Software Development Skills
+![image](https://github.com/steve2030/steve2030/assets/59918018/8bc89eeb-28c6-45a0-8cb8-a4cd37528da6)
+
+
 
 - Git- Ruby- Ruby on Rails- Rspec- Javascrit- React- Python- Django Framework- Postman
 
