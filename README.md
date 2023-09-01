@@ -1,9 +1,9 @@
 -Hi there! 👋
--I'm [Stephen Munyao Wambua], a [Full stack engineer|DevOps Engineer| Site Reliability Engineer] with a passion for [Software Development, Automation, Cybersecurity, application Security and Cloud Computing]. Welcome to my GitHub profile!
+-I'm [Stephen Munyao Wambua], a Full stack engineer|DevOps Engineer| Site Reliability Engineer with a passion for Software Development, Automation, Cybersecurity, application Security and Cloud Computing. Welcome to my GitHub profile!
 
 About Me
 
--🔭 I’m currently working at [LandMark Technologies].
+-🔭 I’m currently working at Eclectics International Limited.
 
 -🌱 I’m currently learning [Pulumi, DataDog, Networking concepts, Argo CI, Microsoft Azure,New Relic, ELK, VPC].
 
@@ -11,11 +11,7 @@ About Me
 
 
 # Skills
-![image](https://github.com/steve2030/steve2030/assets/59918018/8bc89eeb-28c6-45a0-8cb8-a4cd37528da6)
-
-
-
-- Git- Ruby- Ruby on Rails- Rspec- Javascrit- React- Python- Django Framework- Postman
+- Java, -SpringBoot -Ruby- Ruby on Rails- Rspec- Javascrit- React- Python- Django Framework- Postman
 
 ## DevOps|SRE Skills
 ### CI/CD Tools
