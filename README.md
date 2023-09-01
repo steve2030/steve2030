@@ -1,31 +1,26 @@
--Hi there! 👋
--I'm [Stephen Munyao Wambua], a Full stack engineer|DevOps Engineer| Site Reliability Engineer with a passion for Software Development, Automation, Cybersecurity, application Security and Cloud Computing. Welcome to my GitHub profile!
+# Hi there! 👋
 
-About Me
+I'm **Stephen Munyao Wambua**, a passionate Software Developer from Kenya 🇰🇪.
 
--🔭 I’m currently working at Eclectics International Limited.
+🌱 I’m currently learning **DevOps** at [Darey.io](https://www.darey.io).
 
--🌱 I’m currently learning [Pulumi, DataDog, Networking concepts, Argo CI, Microsoft Azure,New Relic, ELK, VPC].
+## DevOps Tools
+- Kubernetes
+- Docker
+- Helm
+- Kibana
+- Terraform
+- Bash Scripting
+- CI/CD (Jenkin &Team City)
+- Ansible
+- ArgoCD
 
--💬 Ask me about [DevOps, SRE and Full stack Development in Springboot Python, Ruby and Javascript].
+👯 I’m looking to collaborate on **DevOps projects**.
 
+👨‍💻 You can find all of my projects on [GitHub](https://github.com/steve2030).
 
-# Skills
-- Java, -SpringBoot -Ruby- Ruby on Rails- Rspec- Javascrit- React- Python- Django Framework- Postman
-## DevOps|SRE Skills
-## CI/CD Tools
-- Linux- Bash scripting- Jenkins- SonarQube- Nexus- Tomcat- Ngnix
-## Infrastructure as Code (IaC)
-- Ansible- Terraform- Docker- Kubernetes- Helm Charts
-- ## Application Monitoring Tools
-- Prometheus- Grafana
-## AWS Cloud Services
-- EC2- S3- AWS Lambda- Elastic BeanStalk- Elastic Load Balamcing- Elastic K8 Services- Identity Access Management.- Code Deploy- Code Build- Code Pipeline
+💬 Ask me about **DevOps**,**Back-end Development in SpringBoot,**Microservices** and **SRE**.
 
--[LinkedIn](https://www.linkedin.com/in/stephen-wambua-devops/)
+📫 You can reach me at [wambu2040@gmail.com](mailto:wambu2040@gmail.com).
 
--[Personal Website](https://stevewambua.netlify.app/)
-
-Feel free to reach out to me anytime!
-
-Thank you for visiting my profile!
+Let's connect and build amazing things together! 😄
