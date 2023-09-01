@@ -7,15 +7,15 @@ A passionate Software Developer from Kenya 🇰🇪.
 
 ## Tech Stack
 ### Fullstack Development
-- Back-end Development (Java, SpringBoot, Ruby, Ruby on Rails)
-- Front-end (Javascript, React, Angular)
+- **Back-end Development** (Java, SpringBoot, Ruby, Ruby on Rails)
+- **Front-end** (Javascript, React, Angular)
 ### DevOps
 - Kubernetes
 - Docker
 - Helm
--Ticketing (Kibana & Jira)
-- Iac (Terraform,Pulumi)
-- Scripting( Python & Bash)
+- **Ticketing** (Kibana & Jira)
+- **Iac** (Terraform,Pulumi)
+- **Shell Scripting**( Python & Bash)
 - CI/CD (Jenkin &Team City)
 - Configuration MAnagaement(Ansible)
 - GitOps (ArgoCD)
