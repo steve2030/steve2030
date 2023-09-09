@@ -8,7 +8,7 @@ A passionate Software Developer from Kenya 🇰🇪.
 ## Tech Stack
 ### Fullstack Development
 - **Back-end Development** (Java, SpringBoot, Ruby, Ruby on Rails)
-- **Front-end** (Javascript, React, Angular)
+- **Front-end** (Javascript, React)
 ### DevOps
 - **Container Orchestration** Kubernetes
 - **Containerisation** Docker
