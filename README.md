@@ -35,3 +35,6 @@ A passionate Software Developer from Kenya 🇰🇪.
 📫 You can reach me at [wambu2040@gmail.com](mailto:wambu2040@gmail.com).
 
 Let's connect and build amazing things together! 😄
+![Stars](https://img.shields.io/github/stars/steve2030/https://github.com/steve2030/AnimalFarm-SpringBoot-Backend-Api-)
+![Forks](https://img.shields.io/github/forks/steve2030/AnimalFarm-SpringBoot-Backend-Api-)
+
