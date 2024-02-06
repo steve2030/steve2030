@@ -6,10 +6,10 @@ A passionate Software Developer from Kenya 🇰🇪.
 🌱 On Part time i serve as a **DevOps Technical Mentor** at  [MobAnn Technologies](https://mobanntechnologies.com/).
 
 ## Tech Stack
-### Fullstack Development
-- **Back-end Development** (Java, Golang, Python)
+### Software Development
+- **Back-end Development** (Java, Golang)
+- **Scripting**(Bash & Python)
 - **Microservices** (SpringBoot3, Apache Kafka, Istio)
-- **Front-end** (Javascript, React)
 ### DevOps
 - **Container Orchestration** Kubernetes
 - **Containerisation** Docker
