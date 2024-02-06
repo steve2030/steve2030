@@ -8,7 +8,7 @@ A passionate Software Developer from Kenya 🇰🇪.
 ## Tech Stack
 ### Fullstack Development
 - **Back-end Development** (Java, Golang, Python)
-- **Microservices** (SpringBoot3, Apache Kafka)
+- **Microservices** (SpringBoot3, Apache Kafka, Istio)
 - **Front-end** (Javascript, React)
 ### DevOps
 - **Container Orchestration** Kubernetes
@@ -17,10 +17,11 @@ A passionate Software Developer from Kenya 🇰🇪.
 - **Ticketing** (Kibana & Jira)
 - **Iac** (Terraform)
 - **Shell Scripting**( Python & Bash)
-- **CI/CD** (Jenkin & Gitlab)
+- **CI/CD** (Jenkin, CloudBuild & Gitlab)
 - **Service Mesh** (Istio)
 - **Configuration MAnagaement**(Ansible)
 - **GitOps**(ArgoCD)
+- **GCP**(CloudBuild, GKE, CloudRun, CloudSQL)
 - **AWS** (EC2,S3, EKS,Route53, VPC, IAM, CodeBuild, CodePipeline, & Code Commit)
 - **Apllication Performance Monitoring** (Prometheus, Grafana & New Relic)
 - **Logs** (ELK)
