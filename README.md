@@ -3,7 +3,7 @@
 I'm **Stephen Munyao Wambua**,
 A passionate Software Developer from Kenya 🇰🇪.
 
-🌱 On Part time i serve as a **DevOps Technical Mentor** at  [MobAnn Technologies](https://mobanntechnologies.com/).
+🌱 On Part time i serve as a **Technical Recruiter** at  [Cloud-Gen Technologies](https://www.linkedin.com/company/101426369/admin/feed/posts/).
 
 ## Tech Stack
 ### Software Development
