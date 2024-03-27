@@ -3,7 +3,7 @@
 I'm **Stephen Munyao Wambua**,
 A passionate Software Developer from Kenya 🇰🇪.
 
-🌱 On Part time i serve as a **Technical Recruiter** at  [Cloud-Gen Technologies](https://www.linkedin.com/company/101426369/admin/feed/posts/).
+🌱 On Part time i serve as a **Community Organizer** at  [Nairobi DevOps Community](https://www.devs.info.ke/pages/nairobidevops) and [Nairobi Kubernetes Community](https://www.linkedin.com/company/101422574/admin/feed/posts/).
 
 ## Tech Stack
 ### Software Development
