@@ -29,11 +29,6 @@ A passionate Software Developer from Kenya 🇰🇪.
 
 👯 I’m looking to collaborate on **DevOps And Spring Boot Projects**.
 
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
-
-
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
@@ -48,17 +43,6 @@ A passionate Software Developer from Kenya 🇰🇪.
 <p align="center">
   <img src="https://guilyx.vercel.app/api/top-played">
 </p>
- 
-```yaml
-section: spotify components info
-tutorial_path: guilyx/guilyx/how-to.md
-original_idea: natemoo-re
-improved_by: andyruwruw
-note: thanks to both of them!
-```
-
-
-
 
 
 👨‍💻 You can find all of my projects on [GitHub](https://github.com/steve2030).
