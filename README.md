@@ -58,25 +58,7 @@ note: thanks to both of them!
 ```
 
 
-**:zap: Recent Activity:**
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
-
-
-
-```
-
-
- Last Updated on 30/05/2022 17:10:52 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 
 
 👨‍💻 You can find all of my projects on [GitHub](https://github.com/steve2030).
@@ -85,7 +67,4 @@ note: thanks to both of them!
 
 📫 You can reach me at [wambu2040@gmail.com](mailto:wambu2040@gmail.com).
 
-Let's connect and build amazing things together! 😄
-![Stars](https://img.shields.io/github/stars/steve2030/AnimalFarm-SpringBoot-Backend-Api-)
-![Forks](https://img.shields.io/github/forks/steve2030/AnimalFarm-SpringBoot-Backend-Api-)
 
