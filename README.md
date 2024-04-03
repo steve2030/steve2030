@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm **Stephen Munyao Wambua**,
-A passionate Software Developer from Kenya 🇰🇪.
+A passionate DevOps engineer from Kenya 🇰🇪.
 
 🌱 On Part time i serve as a **Community Organizer** at  [Nairobi DevOps Community](https://www.devs.info.ke/pages/nairobidevops) and [Nairobi Kubernetes Community](https://www.linkedin.com/company/101422574/admin/feed/posts/).
 
