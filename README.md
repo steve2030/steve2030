@@ -30,9 +30,7 @@ A passionate DevOps engineer from Kenya 🇰🇪.
 👯 I’m looking to collaborate on **DevOps And Spring Boot Projects**.
 
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
